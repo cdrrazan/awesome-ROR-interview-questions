@@ -14,3 +14,4 @@ S.N | Source-link | Source name
 9 | **[Ruby on Rails Interview Questions and Answers -Wordpress](https://srikantmahapatra.wordpress.com/2013/11/07/ruby-on-rails-interview-questions-and-answers/)** | _Srikantmahapatra_
 10 | **[Top 50 Ruby on Rails Interview questions and answers - Ruby on Rails Interview questions Wisdom Jobs](https://www.wisdomjobs.com/e-university/ruby-on-rails-interview-questions.html)** | _wisdomjobs.com_
 11 | **[9 Essential Ruby on Rails Interview Questions](https://www.toptal.com/ruby-on-rails/interview-questions)** | _Toptal.com_
+12 | **[35+ Ruby and Rails Interview Questions](https://lab.hookops.com/ruby-interview-prep.html)** | _Hookops.com_
