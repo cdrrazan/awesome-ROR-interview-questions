@@ -15,3 +15,11 @@ S.N | Source-link | Source name
 10 | **[Top 50 Ruby on Rails Interview questions and answers - Ruby on Rails Interview questions Wisdom Jobs](https://www.wisdomjobs.com/e-university/ruby-on-rails-interview-questions.html)** | _wisdomjobs.com_
 11 | **[9 Essential Ruby on Rails Interview Questions](https://www.toptal.com/ruby-on-rails/interview-questions)** | _Toptal.com_
 12 | **[35+ Ruby and Rails Interview Questions](https://lab.hookops.com/ruby-interview-prep.html)** | _Hookops.com_
+13 | **[Top 53 Ruby on Rails Interview Questions & Answers ](https://career.guru99.com/top-34-ruby-on-rail-interview-questions/)** | _CareerGuru99_
+14 | **[Ruby On Rails Interview Questions](https://mindmajix.com/ruby-rails-interview-questions)** | _MindMajix_
+15 | **[53 Ruby on Rails Interview Questions and Answers](https://medium.com/better-programming/53-ruby-on-rails-interview-questions-and-answers-eb99eed1aeb7)** | _Medium_
+16 | **[Top 72 Ruby on Rails Interview Questions](https://www.fullstack.cafe/Ruby%20on%20Rails)** | _FullStack Cafe_
+17 | **[Ruby on Rails Interview Questions](https://www.javatpoint.com/ruby-on-rails-interview-questions)** | _JavatPoint_
+18 | **[Best Ruby on rails interview questions And Answers](https://www.bestinterviewquestion.com/ruby-on-rails-interview-questions)** | _bestinterviewquestion_
+19 | **[10 Common Ruby On Rails Interview Questions](https://www.indeed.com/career-advice/interviewing/ruby-on-rails-interview-questions)** | _Indeed_
+20 | **[76 Ruby on Rails Interview Questions and Answers](https://www.gangboard.com/blog/ruby-on-rails-interview-questions-and-answers)** | _Gangboard_
