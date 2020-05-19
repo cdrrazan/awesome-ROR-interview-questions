@@ -1,4 +1,4 @@
-# Ruby on Rails Interview Question/Answer sites found in Internet.
+# Ruby on Rails Interview Questions!
 A list of websites link for finding ruby on rails interview questions. Some sites may contain only questions. So please be advised!
 
 S.N | Source-link | Source name 
