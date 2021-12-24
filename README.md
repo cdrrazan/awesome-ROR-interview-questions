@@ -22,3 +22,4 @@ S.N | Source-link | Source name
 17 | **[Best Ruby on rails interview questions And Answers](https://www.bestinterviewquestion.com/ruby-on-rails-interview-questions)** | _bestinterviewquestion_
 18 | **[10 Common Ruby On Rails Interview Questions](https://www.indeed.com/career-advice/interviewing/ruby-on-rails-interview-questions)** | _Indeed_
 19 | **[76 Ruby on Rails Interview Questions and Answers](https://www.gangboard.com/blog/ruby-on-rails-interview-questions-and-answers)** | _Gangboard_
+20 | **[Ruby On Rails Linkedin skill assessment quizes](https://skill-assess-api.vercel.app/quizes/%5BRubi-on-Rails%5D)** | _Sagar Shah_
